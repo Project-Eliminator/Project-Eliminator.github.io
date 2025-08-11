@@ -13,7 +13,7 @@ Installing the **Project Eliminator** kernel is simple and straightforward.
 Before installing the kernel, **make sure to create a backup of the `dtbo` and `boot` partitions**!
 :::
 
-1. [Download the latest kernel](/download/latest.md)
+1. [Download the latest kernel](/download/)
 
 2. Reboot into Recovery mode (we recommend using [TWRP](https://twrp.me) or [OrangeFox](https://orangefox.download))
 
