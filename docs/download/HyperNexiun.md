@@ -11,11 +11,22 @@ Hyper NexiunOS port for POCO X3 PRO (vayu)
 - Updated: **20/08/25**
 - Port by: [**xendr4x** (Project Eliminator)](https://t.me/project_eliminator)
 
+## V2 ChangeLog
+- Changed author (from @mr_mishun to @project_eliminator)
+- Included CorePatch
+- Replaced launcher to mod by @kakashi1v1
+- QuickSettings like ColorOS
+- Extented power menu
+
 ## Download
-- [PixelDrain](https://pixeldrain.com/u/GMDBC6CM) (3.17GB)
+- [PixelDrain (V1](https://pixeldrain.com/u/GMDBC6CM) (3.17GB)
+- [Google Drive (V2)](https://drive.google.com/file/d/1GJEIi9PBYzixh0ZIo-8c34OJ07oLEZWz/view?usp=sharing)
+- **You can update use OTA**
+- V2 is latest for now
 
 ## Bugs
 - 60FPS After reboot
+- Advanced textures not normal works ([fix for v1](https://t.me/pe_support/66), [fix for v2](https://t.me/pe_support/104))
 
 ## Notes
 - OSS based
