@@ -14,6 +14,9 @@ Hyper NexiunOS port for POCO X3 PRO (vayu)
 ## Download
 - [PixelDrain](https://pixeldrain.com/u/GMDBC6CM) (3.17GB)
 
+## Bugs
+- 60FPS After reboot
+
 ## Notes
 - OSS based
 - GMS Included
