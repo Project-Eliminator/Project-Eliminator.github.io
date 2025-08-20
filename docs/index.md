@@ -1,12 +1,12 @@
 # Project Eliminator
 
-Custom kernel for Android-based devices
+Project Eliminator - custom kernel and roms
 
-## 📌 About
+## 📌 About kernel
 
 **Project Eliminator** is a custom kernel based on the Anymore Kernel for **Poco X3 Pro**, built specifically for daily use.
 
-## 🚀 Main Features
+## 🚀 Main Features of kernel
 
 - Supports **130Hz** display refresh rate  
 - Includes **SukiSU Ultra** for advanced root management  
