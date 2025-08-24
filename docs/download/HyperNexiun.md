@@ -20,7 +20,7 @@ Hyper NexiunOS port for POCO X3 PRO (vayu)
 
 ## Download
 ### V1
-- [PixelDrain (V1](https://pixeldrain.com/u/GMDBC6CM) (3.17GB)
+- [PixelDrain (V1)](https://pixeldrain.com/u/GMDBC6CM) (3.17GB)
 ### V2
 - [Google Drive (V2)](https://drive.google.com/file/d/1GJEIi9PBYzixh0ZIo-8c34OJ07oLEZWz/view?usp=sharing)
 ### Info
