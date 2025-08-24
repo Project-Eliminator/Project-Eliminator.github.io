@@ -8,6 +8,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/installation' },
       { text: 'Download', link: '/download/' },
+      { text: 'Guides For Russian', link: '/RG/' },
     ],
     sidebar: {
       '/': [
