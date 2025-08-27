@@ -12,7 +12,7 @@ Hyper NexiunOS port for POCO X3 PRO (vayu)
 - Port by: [**xendr4x** (Project Eliminator)](https://t.me/project_eliminator)
 
 ## Download
-- [Google Drive](https://drive.google.com/file/d/1Dr5HjsYwwylSde3zdSrjMrwFI8kLGIKd/view?usp=sharing)
+- [Google Drive.](https://drive.google.com/file/d/1Dr5HjsYwwylSde3zdSrjMrwFI8kLGIKd/view?usp=sharing)
 
 ## Bugs
 - 60FPS After reboot
