@@ -16,7 +16,7 @@ FadyOS port for POCO X3 PRO (vayu)
 - [Gofile](https://gofile.io/d/Wzyc03)
 - [PixelDrain](https://pixeldrain.com/u/AKZpZXqR)
 - [BuzzHeaver](https://buzzheavier.com/x51vpdr91bwc)
-- [Google Drive](https://buzzheavier.com/x51vpdr91bwc)
+- [Google Drive](https://drive.google.com/file/d/1M2GsdF2hLvmKppoyRKvTLjjf5N8ZGVgu/view?usp=sharing)
 ### V6
 - [PixelDrain](https://pixeldrain.com/u/ZH5TF6ef) (3.17GB)
 
