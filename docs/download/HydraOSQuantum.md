@@ -14,6 +14,7 @@ HydraOS Quantum port for POCO X3 PRO (vayu)
 ## Download
 ### HydraOS Quantum
 - [BuzzHeaver](https://buzzheavier.com/zls2ihpgqwbf)
+- [Gofile](https://cold-eu-agl-1.gofile.io/download/web/f4a4bb87-db7f-4d89-8a57-66de47babf85/HydraOS-6.1_OS2.0.120.0_CN_PORT_vayu.zip)
 
 ## Bugs
 - 60FPS After reboot
