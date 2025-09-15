@@ -8,5 +8,4 @@
 ## ROMs
 - [Hyper NexiunOS](/download/HyperNexiun)
 - [Hyper NexiunOS 2](/download/HyperNexiun2)
-- [HydraOS Quantum](/download/HydraOSQuantum)
 - [FadyOS](/download/FadyOS)
