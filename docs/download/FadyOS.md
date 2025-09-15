@@ -8,10 +8,12 @@ FadyOS port for POCO X3 PRO (vayu)
 - V2.0.214.0
 - Port from POCO F3
 - Android 15
-- Updated: **28/08/25**
+- Updated: **15/09/25**
 - Port by: [**xendr4x** (Project Eliminator)](https://t.me/project_eliminator)
 
 ## Download
+### V6 (MOD 3) (Latest)
+- [PixelDrain](https://pixeldrain.com/u/PjYRWA7V)
 ### V6 FIX (Recommended)
 - [Gofile](https://gofile.io/d/Wzyc03)
 - [PixelDrain](https://pixeldrain.com/u/AKZpZXqR)
@@ -21,14 +23,23 @@ FadyOS port for POCO X3 PRO (vayu)
 - [PixelDrain](https://pixeldrain.com/u/ZH5TF6ef) (3.17GB)
 
 ## ChangeLog
+### V6 (MOD 3)
+- AOD Fixed
+- Gallery app from HOS3 (4.3.0.11)
+- Fixed 60Hz after reboot
+- Deleted 30Hz
+- Edited product props
+- Replaced Screen Recorder app (2.15.1.5.1 MOD From HOS3)
+- Replaced Joyose (2.4.51 MOD From HOS3)
+- Deleted: ```Calendar, Weather MIShare```
 ### V6 Fix
 - Added 130Hz
 - New refresh rate menu
 - Fixed SIM Card bug (SystemUI Crashing)
 
 ## Bugs
-- 60FPS After reboot
 - Camera app is bad, should install gcam
+- If enable after disable bluetooth, audio not working (For fix, reboot)
 
 ## Notes
 - OSS based
