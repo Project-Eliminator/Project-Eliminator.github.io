@@ -16,7 +16,7 @@ export default defineConfig({
           text: 'Guide',
           items: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/installation' },
+      { text: 'Guide', link: '/guide/' },
       { text: 'Download', link: '/download/' },
           ]
         }
