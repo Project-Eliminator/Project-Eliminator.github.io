@@ -6,7 +6,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/installation' },
+      { text: 'Guide', link: '/guide/' },
       { text: 'Download', link: '/download/' },
       { text: 'Guides For Russian', link: '/RG/' },
     ],
